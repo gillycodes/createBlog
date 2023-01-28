@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "The function of a useState",
+      "body": "The useState() is a Hook that allows you to have state variables in functional components .\n so basically useState is the ability to encapsulate local state in a functional component.\n React has two types of components, one is class components which are ES6 classes that extend from React and\n the other is functional components. Class components a Component and can have state and\n lifecycle methods: class Message extends React. The  useState hook is a special function \nthat takes the initial state as an argument and returns an array of two entries.\n  UseState encapsulate only singular value from the state,\n for multiple state need to have useState calls.",
+      "author": "Aical",
+      "id": 2
+    },
+    {
+      "title": "My Country",
+      "body": "Nigeria has always been a great country but the infected and corrupt politicians are  trying to destroy   what we call home but it will not work for them. Amen.",
+      "author": "Michal",
+      "id": 3
+    },
+    {
+      "title": "Independence",
+      "body": "Nigeria has always been a great country but the infected and corrupt politicians are  trying to destroy   what we call home but it will not work for them. Amen.",
+      "author": "Aical",
+      "id": 4
+    }
+  ]
+}
